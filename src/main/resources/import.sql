@@ -1,0 +1,1 @@
+INSERT INTO PRODUTO (ID, NOME, MARCA, QUANTIDADE, PRECO) VALUES (NEXTVAL('hibernate_sequence'), 'Iorgute de Morango', 'Isis', 17, 5.00);
